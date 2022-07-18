@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    {{ __('Bienvenido Usuario Director@!') }}
+                    {{ __('Bienvenido Usuario Director@s!') }}
                 </div>
             </div>
         </div>
