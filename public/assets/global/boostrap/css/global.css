@@ -1,0 +1,73 @@
+﻿body {
+
+}
+
+.modal-modern{
+    min-height: 100vh;
+    display: flex;
+    margin: auto;
+}
+
+.modal-modern .main-section .modal-content{
+    padding: 20px;
+}
+
+.modal-modern .main-section{
+    display: flex;
+    margin: auto;
+    align-items: center;    
+}
+
+.modern-form{
+    margin-top: 20px;
+}
+
+.form-group{
+    margin-bottom: 10px;
+}
+
+#navbar {
+    background-color: cornflowerblue;
+    color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 60px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+#navbar ul {
+    margin-bottom: 0px !important;
+}
+
+#navbar ul li {
+    list-style: none;
+    float: left;
+    padding-left: 10px;
+}
+
+#navbar ul li a {
+    padding: 16px;
+    text-decoration: none;
+    color: white;
+}
+
+#navbar ul li a:hover {
+    background-color: white;
+    color: dodgerblue;
+}
+
+div.absolute-center {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mmi {
+    margin: auto;
+    width: 80%;
+}
